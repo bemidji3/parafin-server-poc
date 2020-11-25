@@ -1,0 +1,7 @@
+{'business_name': 'Test Business', 'business_description': 'A Business For Testing Purposes', 'loan_amount': '935'},
+{'business_name': 'Test Business', 'business_description': 'A Business For Testing Purposes', 'loan_amount': '700'},
+{'business_name': 'Test Business', 'business_description': 'A Business For Testing Purposes', 'loan_amount': '700'},
+{'business_name': 'Test Business', 'business_description': 'A Business For Testing Purposes', 'loan_amount': '700'},
+{'business_name': 'Test Business', 'business_description': 'A Business For Testing Purposes', 'loan_amount': '3323'},
+{'business_name': 'Test Business', 'business_description': 'A Business For Testing Purposes', 'loan_amount': '1678'},
+{'business_name': 'Test Business', 'business_description': 'A Business For Testing Purposes', 'loan_amount': 100},
